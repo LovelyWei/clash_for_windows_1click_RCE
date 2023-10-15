@@ -6,4 +6,4 @@ clash_for_windows_1click_RCE
 - Try right-clicking on the configuration and clicking `Open the Web`
 - Get a nice calculator :)
 
-> Clash For Windows 0.20.25
+> Clash For Windows 0.20.25 / CVE-2023-43840
